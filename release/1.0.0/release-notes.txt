@@ -1,0 +1,12 @@
+HavocConditionPacks 1.0.0
+
+Initial standalone collection for HavocConditionManager 4.5.0+.
+- Frenzied assault 2.2.1 remains at +20% ordinary melee attack and animation speed.
+- HCM reads condition JSON and Lua directly from this mod; no condition extraction.
+- The optional installer registers 54 validated animation patches only.
+- Matching old HCM resource installations retain their original rollback records.
+
+Put HavocConditionPacks under the game mods directory and load it after HCM.
+Close Darktide before using Install-native-melee.cmd or Uninstall-native-melee.cmd.
+The collection contains native animation resources and CMD/PowerShell installers.
+No Nexus scanning approval is claimed. Offline checks do not replace in-game tests.

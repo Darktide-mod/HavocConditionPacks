@@ -1,0 +1,285 @@
+{
+  "format": "HCM.NativeMelee",
+  "version": 1,
+  "game_version": "1.12.5",
+  "package_version": "2.2.1",
+  "executable_sha256": "e0f581d2c63b692c7d9f328e3edeb39c0f484956905569d38ba27bbb3fcc0aae",
+  "source_bundles": {
+    "000957451622b061": "67cb72a9bc92ca65c4f1ae552c19e0632bab35d966a7f69b25f846b71a4e39df",
+    "0704ef2b3526869e": "20f5a6c70a715984bfcf7b423368e38eb22994c49dda1ee065f7a95b3db68ddf",
+    "25db7fb82f16abd0": "6591b575d07f80276b63b822fffc03368f4cc437f7f8a2d1f5f519fcda6c42a4",
+    "31f3eee7632bd92e": "b464e1707e870b3d6d96dcfc7689e7cc508a671c30743fcbae13f45b10a7e28f",
+    "36a2e6b0ff6c6256": "8e368ffec0edf1e780e7b6d52bc472f3845c40d608a791e8898574adcb41680e",
+    "3a2626c3793cdb3d": "3f3f26c7b81768b66e176479d5b91dad49e8c4ca09fa7efbf40c22b31e0862eb",
+    "3ceac34588c0729e": "b1505fa521a90aa077064363de3a5609969ac2c9ce545716e80cd89c409c95c5",
+    "4a74fdc0341d5ba3": "b8642fca46c5c8d5ee083768b34a16b353d3fa35939d289e1c64f33a09032344",
+    "4abb95a6fa663b9e": "88fdd8e923341bbcc10887690d927b862ca567280def33fd17f726b32269339e",
+    "5266d735100376cc": "d9f6549608970f07502d199c9b99548dd4c4949fe5ba9b94b02d4c56efc2fbd8",
+    "532090aa16e2c460": "ac179a54402e0c15e32d6eb2c1e456a39401286ef8430181b84e5e339137d554",
+    "564f6b82bb35743f": "7f9d964d816a1122bca1be58af0402be7e592620d651900f0d1e40c06c63d87c",
+    "5a6775b2f7b2e61a": "fd02d30629cb8bb77791e715e5af3e0ed90bed72931d1168d559009f88b40dc9",
+    "5b5656bb0390db61": "92cb322cd6e63a92e42068b79a35f6bcc2744978ed60cc9f7ef40731c2ad6686",
+    "5e24a1b726720f71": "0c9ee06ce2f5b9335292d7fa4a093158911d2f822ad6d9578a1556d1a9e35447",
+    "6de7c7d2287b2bcf": "c9d08db34d410e574881457ac3f57139d4534e0fa3c7273808dd7fd6b3561510",
+    "77103ecdbfd7353a": "3b25c711447ec63442c4ee771637a20b3c806c15f64b55a9874a9c3635db3c6b",
+    "775c1c450324ca48": "de11db31abd9a013b4ee89f2954c3cadf49196f25fddb141a7d1f8bc073161f0",
+    "8aba8c0ec516a1f6": "0aa16ccbc5e3620f8d0919ba1589c56d3510ea427d142f74f3d34d740fcc2952",
+    "8befb7de96445f55": "d0d57a1ab2348b0bfa337a1ccb824f48029549cfbe5dfea22ba39fcc12820b3d",
+    "8e3ade84d2f65303": "7d344d5b952a496bb2ca6076c812cc6f57866e9894e604b758ab9daf51868bd0",
+    "90b952c311ad508c": "720c1d67c2d342cf906dd2d91913e3acdfe3654499fb5aa6f039f8f62b2dc01f",
+    "927ed2f6df398b8c": "16653df7cccf9f508fc34860225ff563b63a198cc371ffe4a225dfabd3758e26",
+    "9415c5370c59d3d8": "f9ac1442c99593546bc98a3a67a57ce7e7a4a7987bb8dc7edaaddd558f30df81",
+    "9ed36deaa2bb13f0": "8e2e5f9565b046eca3e644896522e744864186cfeea0c3803e30e17cd4507fb2",
+    "9ee970f4608fda84": "77752a7a9ba9180919acd7dd6c93ced5b03b5a4f3ba88a34c11cd25b5f9c66d8",
+    "a1c28e5e34407bf7": "3ceb677115798073c1e34158e049989e9d4a18b0ed408e4ffbe5a7415eb8534d",
+    "a2655263879d9e94": "179f7616fa44be2f1c3a08738baa0a78c9b6d5999a585f2cf6f3b161431f4022",
+    "a58ec62b2b600d2b": "4cf6a0320d74adef27de41bd57e3aac83b809cc73977a06a281e12977a54a031",
+    "a6ea0de08e6df82b": "66634c76b7447e5afd557ae825966cef978f2ddb9cbe13aa61088e393446a14c",
+    "aade93c57c6dc0d8": "c68f7256c58ea46b522fce9e1f8e6bb5b3e4bf9b4602705ef312e62f9cdabd0b",
+    "ad2893281e6ad2cd": "5f8e44d30fd91cd5a989702e5a9ab097c151c3be6a9bd2d6333873be60dccae7",
+    "b287476707e5dcc4": "28640d7385fa714d24621bff0b09cc91b045fd1725e50e94946cf9f1203171ae",
+    "b3bc6f7359fb372a": "bfe0f6175f01696c536615a0f1d39a4b1627f825c0b3b288e6320394d43e23c5",
+    "b3ee02222cb55156": "d21036f764961326a4b38dd801c0a12497af6858ae3f2198a7bf979730a56902",
+    "b9823af183b255eb": "3fe53f2dee2ebed1d055104e94fb2b120acc46ce499781ed967e3fa69d532ba0",
+    "bc375459ed237b7a": "be6aff079bde080eca41cf5ea3d5a3e061585886843cfa3b7d81c4e3f50ed6c1",
+    "bf600f9117e2cffa": "de63ba02d9e97aa496790ff451c5697175881c002e496b774516ad08b6b9c2ca",
+    "c60da19b2bcda8ab": "0978324cb793c5d554572f50a6093108d43a38a8d2573d2e6833896823c99f91",
+    "c7fc3a84636743b7": "1b2b0aabfe463ecbdd959e397518ea8b7341fcac2c20c7a692ab62958410630f",
+    "c860c446c889214e": "9de06a109e3f52676496b39505202d0aa3821756d7e70283ddf5cc3d255847a3",
+    "cc7f3a20e6a8b82e": "ee445e200c40d88f4525943b9eed509cadb23e0aebd49a8aae9d754c96edf34c",
+    "cdc2933a0b1ff854": "9376fdc8eefaa53acad56b1f9c539cd525ab17f2d696d2a3afe2d7ac74c1613f",
+    "d0b59f431d186b93": "e49713d4ac86ca47dc6e89d6656020237590663759de0386ffa589754b0ed055",
+    "d7406e90dc850293": "6cb55149a81ebff1fa84771e90fd415a58f333276003199de5953f6d2ab457fb",
+    "d7d46187327f0328": "56471a7bb26ce03d56a8bdb71ddd440cb2f82d85a6749c28930338a47127ddd0",
+    "d9d76cd42ebd882f": "a65e8e629fb41ce47e8d34bb5b4256257b9898b63efae51409e073d078823814",
+    "dbfdfa17636f96a8": "2597c22bd302761671b63767e994d800bcb9de1100a38bc3e925b3ab62aa0ed6",
+    "de1d4122c751a317": "df6eef80683e87bc9f7218bbc38cbb732be8928ec8ad0ff8a433fdba61fcf0ef",
+    "de7b61990c60b857": "3e2fc8575e263abfd91107fe866046f4df84179b0b0c8b5c8293a04b624a8687",
+    "f3c908e812a95fe9": "cdd43e6e75b3939d2e4670be95a3d90bfbf5e0b6b230c36fafb04518f99ad492",
+    "f9c7eea4464c4fc5": "7178d14b8c4981b5b9e5b6436222859fd4298593a9878c6e2e7faedb8254b1c4",
+    "fb5fb34350a4db39": "51573bb295c26ab136e443d0f2d097f64818d1d7c8c50875b7ad1bf5d31ca871",
+    "ffa562559761ba1b": "458714e1f90bfc8a74efb261e8388477d7a89fc275074ea5f9407e8ac5182752"
+  },
+  "patches": [
+    {
+      "file": "000957451622b061.patch_996",
+      "sha256": "e8e081ad7320bd0a4d12efdac4199ba237438375d6b2862e977ba53a0e576846"
+    },
+    {
+      "file": "0704ef2b3526869e.patch_996",
+      "sha256": "5ae101abe7bc673a6adb8aa5414f6df2eb30ff322367e2bd7d5d29cf1b14438e"
+    },
+    {
+      "file": "25db7fb82f16abd0.patch_996",
+      "sha256": "3286771844f57f6324de313b494a5c81314143d4582bfebc5f780913d94ffc5c"
+    },
+    {
+      "file": "31f3eee7632bd92e.patch_996",
+      "sha256": "c0e281790cc42b6619150eb92f80badcda088f7baea2c98d7923e1e35453a40c"
+    },
+    {
+      "file": "36a2e6b0ff6c6256.patch_996",
+      "sha256": "4330caba79018aa0729c565494b848ffd8d2e5a1b436ab6f39ff3e7627ecb1c1"
+    },
+    {
+      "file": "3a2626c3793cdb3d.patch_996",
+      "sha256": "377b1a7d0575cf76e82d98b05cc5b66ef0072c05de7a2327f2718807aaadf9a8"
+    },
+    {
+      "file": "3ceac34588c0729e.patch_996",
+      "sha256": "75c74d8cb7616228b15e990b950af5eb92190f9697bc747c13557a4cb41e1b04"
+    },
+    {
+      "file": "4a74fdc0341d5ba3.patch_996",
+      "sha256": "0c412bdf3f25feac240dd6a7b4db8214dc2f7a11117661ad804c9d3a7e426bc4"
+    },
+    {
+      "file": "4abb95a6fa663b9e.patch_996",
+      "sha256": "a09de64747f131742b4efc045e2a887fab6ef6c09a79d0a39043fa66d10f47ea"
+    },
+    {
+      "file": "5266d735100376cc.patch_996",
+      "sha256": "1270afe2ca36c822d7cd65ec809a0ddbb6b6dfb22dc70daa0c12a2b334dae93f"
+    },
+    {
+      "file": "532090aa16e2c460.patch_996",
+      "sha256": "072aff67a6a086f91f6ff9391e90917cdd3214ae11fd078d18f836b440ab63f2"
+    },
+    {
+      "file": "564f6b82bb35743f.patch_996",
+      "sha256": "f951e313859d190deff8375d0ae1cb60560c2fc2c9736990e630019153a4f8e7"
+    },
+    {
+      "file": "5a6775b2f7b2e61a.patch_996",
+      "sha256": "3286771844f57f6324de313b494a5c81314143d4582bfebc5f780913d94ffc5c"
+    },
+    {
+      "file": "5b5656bb0390db61.patch_996",
+      "sha256": "3286771844f57f6324de313b494a5c81314143d4582bfebc5f780913d94ffc5c"
+    },
+    {
+      "file": "5e24a1b726720f71.patch_996",
+      "sha256": "01c07a59589695f7cbb9a419ec29b213f01b628b140d85c7a7b34d3b3992fd4c"
+    },
+    {
+      "file": "6de7c7d2287b2bcf.patch_996",
+      "sha256": "7aac3c52b62ada4fa39d7a8bad2cae16ba40f509dd02a0ccf62a6b22e62a3896"
+    },
+    {
+      "file": "77103ecdbfd7353a.patch_996",
+      "sha256": "06b183e5de7cff549ba9b5609207f4f72bf82318e6f15166beef924fa0afe93e"
+    },
+    {
+      "file": "775c1c450324ca48.patch_996",
+      "sha256": "88f72c4be72c4702cc2332e3f66520258fa90bf9232f485c9d35877789c56bf9"
+    },
+    {
+      "file": "8aba8c0ec516a1f6.patch_996",
+      "sha256": "06b183e5de7cff549ba9b5609207f4f72bf82318e6f15166beef924fa0afe93e"
+    },
+    {
+      "file": "8befb7de96445f55.patch_996",
+      "sha256": "06b183e5de7cff549ba9b5609207f4f72bf82318e6f15166beef924fa0afe93e"
+    },
+    {
+      "file": "8e3ade84d2f65303.patch_996",
+      "sha256": "4330caba79018aa0729c565494b848ffd8d2e5a1b436ab6f39ff3e7627ecb1c1"
+    },
+    {
+      "file": "90b952c311ad508c.patch_996",
+      "sha256": "377b1a7d0575cf76e82d98b05cc5b66ef0072c05de7a2327f2718807aaadf9a8"
+    },
+    {
+      "file": "927ed2f6df398b8c.patch_996",
+      "sha256": "3d3274501abb4c97901c2fd7bd80052e793b630a793d9eec169233b27f991b2d"
+    },
+    {
+      "file": "9415c5370c59d3d8.patch_996",
+      "sha256": "9f061d2fb655a42727433f4097cd0505f56eca7c57a2ae43d41401f9dc1e31aa"
+    },
+    {
+      "file": "9ed36deaa2bb13f0.patch_996",
+      "sha256": "3286771844f57f6324de313b494a5c81314143d4582bfebc5f780913d94ffc5c"
+    },
+    {
+      "file": "9ee970f4608fda84.patch_996",
+      "sha256": "61458c1cd5c7dd208a7a419d4dd07b6a391765aefc933119bb9085130f2612b4"
+    },
+    {
+      "file": "a1c28e5e34407bf7.patch_996",
+      "sha256": "8ed7eac048ee6aa3004cfaf0484c0faa5c78c601def3f103df71f60dc19ab7e4"
+    },
+    {
+      "file": "a2655263879d9e94.patch_996",
+      "sha256": "06b183e5de7cff549ba9b5609207f4f72bf82318e6f15166beef924fa0afe93e"
+    },
+    {
+      "file": "a58ec62b2b600d2b.patch_996",
+      "sha256": "0c412bdf3f25feac240dd6a7b4db8214dc2f7a11117661ad804c9d3a7e426bc4"
+    },
+    {
+      "file": "a6ea0de08e6df82b.patch_996",
+      "sha256": "bd2e33a080210a4db9225344b47ebe5c5b2d4a9ae5547f6af57dfa3e518eb0e6"
+    },
+    {
+      "file": "aade93c57c6dc0d8.patch_996",
+      "sha256": "3286771844f57f6324de313b494a5c81314143d4582bfebc5f780913d94ffc5c"
+    },
+    {
+      "file": "ad2893281e6ad2cd.patch_996",
+      "sha256": "3286771844f57f6324de313b494a5c81314143d4582bfebc5f780913d94ffc5c"
+    },
+    {
+      "file": "b287476707e5dcc4.patch_996",
+      "sha256": "b0cfb88ab8f16a8fba82a443dadf1f4ee3a9ebc4a5ab7bdfec181efd6a32b56e"
+    },
+    {
+      "file": "b3bc6f7359fb372a.patch_996",
+      "sha256": "3286771844f57f6324de313b494a5c81314143d4582bfebc5f780913d94ffc5c"
+    },
+    {
+      "file": "b3ee02222cb55156.patch_996",
+      "sha256": "69e032fdb18ca1cdca956b11dce06be20c42405e863e03b6b9c5a0456ae5f913"
+    },
+    {
+      "file": "b9823af183b255eb.patch_996",
+      "sha256": "06b183e5de7cff549ba9b5609207f4f72bf82318e6f15166beef924fa0afe93e"
+    },
+    {
+      "file": "bc375459ed237b7a.patch_996",
+      "sha256": "a09de64747f131742b4efc045e2a887fab6ef6c09a79d0a39043fa66d10f47ea"
+    },
+    {
+      "file": "bf600f9117e2cffa.patch_996",
+      "sha256": "3286771844f57f6324de313b494a5c81314143d4582bfebc5f780913d94ffc5c"
+    },
+    {
+      "file": "c60da19b2bcda8ab.patch_996",
+      "sha256": "3d12cae96f42bead187c8fbd89fc20f5db626a96b2ffa8ffda520ce47e9e45d0"
+    },
+    {
+      "file": "c7fc3a84636743b7.patch_996",
+      "sha256": "a46f2faaa5cd525e465ece50867666187b6a9494af69c70ebc0257e0bccccf1f"
+    },
+    {
+      "file": "c860c446c889214e.patch_996",
+      "sha256": "3286771844f57f6324de313b494a5c81314143d4582bfebc5f780913d94ffc5c"
+    },
+    {
+      "file": "cc7f3a20e6a8b82e.patch_996",
+      "sha256": "8ed7eac048ee6aa3004cfaf0484c0faa5c78c601def3f103df71f60dc19ab7e4"
+    },
+    {
+      "file": "cdc2933a0b1ff854.patch_996",
+      "sha256": "844d55383926e698ab6f773ffa1b7a423aab762e4a0e521ecce34ece1935418d"
+    },
+    {
+      "file": "d0b59f431d186b93.patch_996",
+      "sha256": "85aab0972804e18fe383296c749a9858a8ce59fae569bc365eb7e8a93cad253e"
+    },
+    {
+      "file": "d7406e90dc850293.patch_996",
+      "sha256": "3286771844f57f6324de313b494a5c81314143d4582bfebc5f780913d94ffc5c"
+    },
+    {
+      "file": "d7d46187327f0328.patch_996",
+      "sha256": "3286771844f57f6324de313b494a5c81314143d4582bfebc5f780913d94ffc5c"
+    },
+    {
+      "file": "d9d76cd42ebd882f.patch_996",
+      "sha256": "3286771844f57f6324de313b494a5c81314143d4582bfebc5f780913d94ffc5c"
+    },
+    {
+      "file": "dbfdfa17636f96a8.patch_996",
+      "sha256": "5ae101abe7bc673a6adb8aa5414f6df2eb30ff322367e2bd7d5d29cf1b14438e"
+    },
+    {
+      "file": "de1d4122c751a317.patch_996",
+      "sha256": "8ed7eac048ee6aa3004cfaf0484c0faa5c78c601def3f103df71f60dc19ab7e4"
+    },
+    {
+      "file": "de7b61990c60b857.patch_996",
+      "sha256": "3286771844f57f6324de313b494a5c81314143d4582bfebc5f780913d94ffc5c"
+    },
+    {
+      "file": "f3c908e812a95fe9.patch_996",
+      "sha256": "377b1a7d0575cf76e82d98b05cc5b66ef0072c05de7a2327f2718807aaadf9a8"
+    },
+    {
+      "file": "f9c7eea4464c4fc5.patch_996",
+      "sha256": "7cf27005082b0569c0ded856d53dce026d0b890887afbb98ea3694bc12eb131c"
+    },
+    {
+      "file": "fb5fb34350a4db39.patch_996",
+      "sha256": "3286771844f57f6324de313b494a5c81314143d4582bfebc5f780913d94ffc5c"
+    },
+    {
+      "file": "ffa562559761ba1b.patch_996",
+      "sha256": "06b183e5de7cff549ba9b5609207f4f72bf82318e6f15166beef924fa0afe93e"
+    }
+  ],
+  "package_files": [],
+  "package_sha256": {},
+  "resource_revision": 2,
+  "note": "Animation resources only. Condition Lua is read directly from HavocConditionPacks/diy/packages."
+}

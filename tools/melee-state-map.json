@@ -1,0 +1,6462 @@
+{
+  "cases": 374,
+  "matched_event_targets": 460,
+  "missing": [
+    [
+      "cultist_captain",
+      "attack_swing_combo_01",
+      "6de7c7d2287b2bcf",
+      "no direct transition"
+    ],
+    [
+      "renegade_twin_captain_two",
+      "attack_swing_combo_01",
+      "6de7c7d2287b2bcf",
+      "no direct transition"
+    ]
+  ],
+  "targets": [
+    {
+      "breed": "chaos_armored_infected",
+      "event": "attack_02",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 45,
+      "state": "attack_02",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_armored_infected",
+      "event": "attack_04",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 49,
+      "state": "attack_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_armored_infected",
+      "event": "attack_05",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 48,
+      "state": "attack_05",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_armored_infected",
+      "event": "attack_06",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 47,
+      "state": "attack_06",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_armored_infected",
+      "event": "attack_07",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 50,
+      "state": "attack_07",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_armored_infected",
+      "event": "attack_down_01",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 66,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_armored_infected",
+      "event": "attack_reach_up",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 43,
+      "state": "attack_reach_up",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_armored_infected",
+      "event": "attack_01",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 41,
+      "state": "attack_01",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_armored_infected",
+      "event": "attack_move_02",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 96,
+      "state": "67e0f1ec4acf3637",
+      "speed": 1.5,
+      "expression": [
+        1069547520
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_armored_infected",
+      "event": "attack_move_03",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 97,
+      "state": "fb9283f699694fd7",
+      "speed": 1.5,
+      "expression": [
+        1069547520
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_armored_infected",
+      "event": "attack_move_04",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 98,
+      "state": "e0259f7ae4bdd9a6",
+      "speed": 1.5,
+      "expression": [
+        1069547520
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_armored_infected",
+      "event": "attack_move_01",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 95,
+      "state": "db2957519b3b13ad",
+      "speed": 1.5,
+      "expression": [
+        1069547520
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_armored_infected",
+      "event": "attack_run_03",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 94,
+      "state": "b823999aa7041f4a",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_armored_infected",
+      "event": "attack_run_02",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 93,
+      "state": "f4a8cc4124acbdd6",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_beast_of_nurgle",
+      "event": "attack_body_slam",
+      "asset": "55f31f2d43c49afe",
+      "layer": 0,
+      "index": 14,
+      "state": "attack_body_slam",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_beast_of_nurgle",
+      "event": "attack_slam_left",
+      "asset": "55f31f2d43c49afe",
+      "layer": 0,
+      "index": 13,
+      "state": "attack_slam_left",
+      "speed": 1.100000023841858,
+      "expression": [
+        1066192077
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_beast_of_nurgle",
+      "event": "attack_slam_right",
+      "asset": "55f31f2d43c49afe",
+      "layer": 0,
+      "index": 12,
+      "state": "attack_slam_right",
+      "speed": 1.100000023841858,
+      "expression": [
+        1066192077
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_beast_of_nurgle",
+      "event": "attack_tail_slam",
+      "asset": "55f31f2d43c49afe",
+      "layer": 0,
+      "index": 9,
+      "state": "attack_tail_slam",
+      "speed": 1.100000023841858,
+      "expression": [
+        1066192077
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_beast_of_nurgle",
+      "event": "attack_tail_whip_left",
+      "asset": "55f31f2d43c49afe",
+      "layer": 0,
+      "index": 11,
+      "state": "attack_tail_whip_left",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_beast_of_nurgle",
+      "event": "attack_tail_whip_right",
+      "asset": "55f31f2d43c49afe",
+      "layer": 0,
+      "index": 10,
+      "state": "attack_tail_whip_right",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_daemonhost",
+      "event": "attack_move_02",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 23,
+      "state": "1328f184434417cd",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_daemonhost",
+      "event": "attack_move_03",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 24,
+      "state": "5be34e0203fd5cee",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_daemonhost",
+      "event": "attack_down",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 32,
+      "state": "attack_down",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_daemonhost",
+      "event": "attack_up",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 33,
+      "state": "attack_up",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_daemonhost",
+      "event": "attack_move_01",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 22,
+      "state": "2491f40238b80eea",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_daemonhost",
+      "event": "attack_combo",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 29,
+      "state": "attack_combo",
+      "speed": 1.399999976158142,
+      "expression": [
+        1068708659
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_daemonhost",
+      "event": "attack_combo_2",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 30,
+      "state": "attack_combo_2",
+      "speed": 1.399999976158142,
+      "expression": [
+        1068708659
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_daemonhost",
+      "event": "attack_combo_3",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 31,
+      "state": "attack_combo_3",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_lesser_mutated_poxwalker",
+      "event": "attack_02",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 71,
+      "state": "attack_02",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_lesser_mutated_poxwalker",
+      "event": "attack_04",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 80,
+      "state": "attack_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_lesser_mutated_poxwalker",
+      "event": "attack_05",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 78,
+      "state": "attack_05",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_lesser_mutated_poxwalker",
+      "event": "attack_reach_up_01",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 73,
+      "state": "attack_reach_up_01",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_lesser_mutated_poxwalker",
+      "event": "attack_down_01",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 72,
+      "state": "attack_down_01",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_lesser_mutated_poxwalker",
+      "event": "attack_03",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 79,
+      "state": "attack_03",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_lesser_mutated_poxwalker",
+      "event": "attack_01",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 70,
+      "state": "attack_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_lesser_mutated_poxwalker",
+      "event": "attack_move_02",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 88,
+      "state": "c109c9164aaf7640",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_lesser_mutated_poxwalker",
+      "event": "attack_move_03",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 89,
+      "state": "a87d204f00dd4d19",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_lesser_mutated_poxwalker",
+      "event": "attack_move_01",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 87,
+      "state": "243df338182629e7",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_lesser_mutated_poxwalker",
+      "event": "attack_run_01",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 90,
+      "state": "d3ad8df9a7a6ad30",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_lesser_mutated_poxwalker",
+      "event": "attack_run_02",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 91,
+      "state": "6d3a48c45adc098b",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_mutated_poxwalker",
+      "event": "attack_02",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 71,
+      "state": "attack_02",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_mutated_poxwalker",
+      "event": "attack_04",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 80,
+      "state": "attack_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_mutated_poxwalker",
+      "event": "attack_05",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 78,
+      "state": "attack_05",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_mutated_poxwalker",
+      "event": "attack_reach_up_01",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 73,
+      "state": "attack_reach_up_01",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_mutated_poxwalker",
+      "event": "attack_down_01",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 72,
+      "state": "attack_down_01",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_mutated_poxwalker",
+      "event": "attack_03",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 79,
+      "state": "attack_03",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_mutated_poxwalker",
+      "event": "attack_01",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 70,
+      "state": "attack_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_mutated_poxwalker",
+      "event": "attack_move_02",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 88,
+      "state": "c109c9164aaf7640",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_mutated_poxwalker",
+      "event": "attack_move_03",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 89,
+      "state": "a87d204f00dd4d19",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_mutated_poxwalker",
+      "event": "attack_move_01",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 87,
+      "state": "243df338182629e7",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_mutated_poxwalker",
+      "event": "attack_run_01",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 90,
+      "state": "d3ad8df9a7a6ad30",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_mutated_poxwalker",
+      "event": "attack_run_02",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 91,
+      "state": "6d3a48c45adc098b",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_mutator_daemonhost",
+      "event": "attack_down",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 32,
+      "state": "attack_down",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_mutator_daemonhost",
+      "event": "attack_up",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 33,
+      "state": "attack_up",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_mutator_daemonhost",
+      "event": "attack_move_01",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 22,
+      "state": "2491f40238b80eea",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_mutator_daemonhost",
+      "event": "attack_move_02",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 23,
+      "state": "1328f184434417cd",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_mutator_daemonhost",
+      "event": "attack_move_03",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 24,
+      "state": "5be34e0203fd5cee",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_mutator_daemonhost",
+      "event": "attack_combo",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 29,
+      "state": "attack_combo",
+      "speed": 1.399999976158142,
+      "expression": [
+        1068708659
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_mutator_daemonhost",
+      "event": "attack_combo_2",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 30,
+      "state": "attack_combo_2",
+      "speed": 1.399999976158142,
+      "expression": [
+        1068708659
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_mutator_daemonhost",
+      "event": "attack_combo_3",
+      "asset": "44f71471e3f37aa7",
+      "layer": 0,
+      "index": 31,
+      "state": "attack_combo_3",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_newly_infected",
+      "event": "attack_02",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 45,
+      "state": "attack_02",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_newly_infected",
+      "event": "attack_04",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 49,
+      "state": "attack_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_newly_infected",
+      "event": "attack_05",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 48,
+      "state": "attack_05",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_newly_infected",
+      "event": "attack_07",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 50,
+      "state": "attack_07",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_newly_infected",
+      "event": "attack_reach_up",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 43,
+      "state": "attack_reach_up",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_newly_infected",
+      "event": "attack_down_01",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 66,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_newly_infected",
+      "event": "attack_06",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 47,
+      "state": "attack_06",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_newly_infected",
+      "event": "attack_01",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 41,
+      "state": "attack_01",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_newly_infected",
+      "event": "attack_move_02",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 96,
+      "state": "67e0f1ec4acf3637",
+      "speed": 1.5,
+      "expression": [
+        1069547520
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_newly_infected",
+      "event": "attack_move_03",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 97,
+      "state": "fb9283f699694fd7",
+      "speed": 1.5,
+      "expression": [
+        1069547520
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_newly_infected",
+      "event": "attack_move_04",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 98,
+      "state": "e0259f7ae4bdd9a6",
+      "speed": 1.5,
+      "expression": [
+        1069547520
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_newly_infected",
+      "event": "attack_move_01",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 95,
+      "state": "db2957519b3b13ad",
+      "speed": 1.5,
+      "expression": [
+        1069547520
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_newly_infected",
+      "event": "attack_run_03",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 94,
+      "state": "b823999aa7041f4a",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_newly_infected",
+      "event": "attack_run_02",
+      "asset": "d0b59f431d186b93",
+      "layer": 0,
+      "index": 93,
+      "state": "f4a8cc4124acbdd6",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_ogryn_bulwark",
+      "event": "shield_push",
+      "asset": "927ed2f6df398b8c",
+      "layer": 0,
+      "index": 9,
+      "state": "shield_push",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_bulwark",
+      "event": "attack_02",
+      "asset": "927ed2f6df398b8c",
+      "layer": 0,
+      "index": 13,
+      "state": "attack_02",
+      "speed": 1.399999976158142,
+      "expression": [
+        1068708659
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_bulwark",
+      "event": "attack_reach_up",
+      "asset": "927ed2f6df398b8c",
+      "layer": 0,
+      "index": 2,
+      "state": "attack_reach_up",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_bulwark",
+      "event": "attack_down_01",
+      "asset": "927ed2f6df398b8c",
+      "layer": 0,
+      "index": 6,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_bulwark",
+      "event": "attack_03",
+      "asset": "927ed2f6df398b8c",
+      "layer": 0,
+      "index": 15,
+      "state": "attack_03",
+      "speed": 1.5,
+      "expression": [
+        1069547520
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_bulwark",
+      "event": "attack_01",
+      "asset": "927ed2f6df398b8c",
+      "layer": 0,
+      "index": 0,
+      "state": "attack_01",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_bulwark",
+      "event": "attack_move_01",
+      "asset": "927ed2f6df398b8c",
+      "layer": 0,
+      "index": 19,
+      "state": "db2957519b3b13ad",
+      "speed": 1.100000023841858,
+      "expression": [
+        1066192077
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_03",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 25,
+      "state": "attack_03",
+      "speed": 1.100000023841858,
+      "expression": [
+        1066192077
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_04",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 26,
+      "state": "attack_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_05",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 29,
+      "state": "attack_05",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_reach_up",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 12,
+      "state": "attack_reach_up",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_down_01",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 19,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_06",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 30,
+      "state": "attack_06",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_push_punch_01",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 36,
+      "state": "attack_push_punch_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_push_punch_02",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 43,
+      "state": "attack_push_punch_02",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_push_punch_03",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 44,
+      "state": "attack_push_punch_03",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_push_punch_04",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 47,
+      "state": "attack_push_punch_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_push_punch_05",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 45,
+      "state": "attack_push_punch_05",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_push_punch_06",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 46,
+      "state": "attack_push_punch_06",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_pommel_01",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 34,
+      "state": "attack_pommel_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_push_kick_01",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 35,
+      "state": "attack_push_kick_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_02",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 24,
+      "state": "attack_02",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_08",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 38,
+      "state": "attack_08",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_07",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 40,
+      "state": "attack_07",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_01",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 10,
+      "state": "attack_01",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_move_02",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 52,
+      "state": "334154cd3376742f",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_move_03",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 53,
+      "state": "52898dec8d9d8d56",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_ogryn_executor",
+      "event": "attack_move_01",
+      "asset": "5266d735100376cc",
+      "layer": 0,
+      "index": 50,
+      "state": "f5e3cc88b1acb75c",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_ogryn_gunner",
+      "event": "attack_push_punch_01",
+      "asset": "564f6b82bb35743f",
+      "layer": 0,
+      "index": 31,
+      "state": "attack_push_punch_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_gunner",
+      "event": "attack_push_kick_01",
+      "asset": "564f6b82bb35743f",
+      "layer": 0,
+      "index": 32,
+      "state": "attack_push_kick_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_gunner",
+      "event": "attack_push_01",
+      "asset": "564f6b82bb35743f",
+      "layer": 0,
+      "index": 33,
+      "state": "attack_push_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_houndmaster",
+      "event": "attack_03",
+      "asset": "f9c7eea4464c4fc5",
+      "layer": 0,
+      "index": 13,
+      "state": "attack_03",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_houndmaster",
+      "event": "attack_06",
+      "asset": "f9c7eea4464c4fc5",
+      "layer": 0,
+      "index": 16,
+      "state": "attack_06",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_houndmaster",
+      "event": "attack_04",
+      "asset": "f9c7eea4464c4fc5",
+      "layer": 0,
+      "index": 14,
+      "state": "attack_04",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_houndmaster",
+      "event": "attack_05",
+      "asset": "f9c7eea4464c4fc5",
+      "layer": 0,
+      "index": 15,
+      "state": "attack_05",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_houndmaster",
+      "event": "attack_down_01",
+      "asset": "f9c7eea4464c4fc5",
+      "layer": 0,
+      "index": 12,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_houndmaster",
+      "event": "attack_reach_up",
+      "asset": "f9c7eea4464c4fc5",
+      "layer": 0,
+      "index": 11,
+      "state": "attack_reach_up",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_houndmaster",
+      "event": "attack_standing_combo",
+      "asset": "f9c7eea4464c4fc5",
+      "layer": 0,
+      "index": 18,
+      "state": "attack_standing_combo",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_ogryn_houndmaster",
+      "event": "move_attack_06",
+      "asset": "f9c7eea4464c4fc5",
+      "layer": 0,
+      "index": 40,
+      "state": "move_attack_06",
+      "speed": 1.100000023841858,
+      "expression": [
+        1066192077
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_ogryn_houndmaster",
+      "event": "move_attack_07",
+      "asset": "f9c7eea4464c4fc5",
+      "layer": 0,
+      "index": 42,
+      "state": "move_attack_07",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_ogryn_houndmaster",
+      "event": "move_attack_09",
+      "asset": "f9c7eea4464c4fc5",
+      "layer": 0,
+      "index": 43,
+      "state": "move_attack_09",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_ogryn_houndmaster",
+      "event": "move_attack_cleave_02",
+      "asset": "f9c7eea4464c4fc5",
+      "layer": 0,
+      "index": 45,
+      "state": "move_attack_cleave_02",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 2,
+      "animation_count": 4
+    },
+    {
+      "breed": "chaos_ogryn_houndmaster",
+      "event": "move_attack_cleave_03",
+      "asset": "f9c7eea4464c4fc5",
+      "layer": 0,
+      "index": 44,
+      "state": "move_attack_cleave_03",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 2,
+      "animation_count": 4
+    },
+    {
+      "breed": "chaos_ogryn_houndmaster",
+      "event": "move_attack_cleave_04",
+      "asset": "f9c7eea4464c4fc5",
+      "layer": 0,
+      "index": 46,
+      "state": "move_attack_cleave_04",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 2,
+      "animation_count": 4
+    },
+    {
+      "breed": "chaos_ogryn_houndmaster",
+      "event": "move_attack_cleave",
+      "asset": "f9c7eea4464c4fc5",
+      "layer": 0,
+      "index": 41,
+      "state": "move_attack_cleave",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 2,
+      "animation_count": 4
+    },
+    {
+      "breed": "chaos_plague_ogryn",
+      "event": "attack_reach_up",
+      "asset": "efa798053b269d22",
+      "layer": 0,
+      "index": 20,
+      "state": "attack_reach_up",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_plague_ogryn",
+      "event": "attack_slam",
+      "asset": "efa798053b269d22",
+      "layer": 0,
+      "index": 11,
+      "state": "attack_slam",
+      "speed": 1.125,
+      "expression": [
+        1066401792
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_plague_ogryn",
+      "event": "attack_stomp",
+      "asset": "efa798053b269d22",
+      "layer": 0,
+      "index": 12,
+      "state": "attack_stomp",
+      "speed": 1.100000023841858,
+      "expression": [
+        1066192077
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_plague_ogryn",
+      "event": "attack_sword_combo",
+      "asset": "efa798053b269d22",
+      "layer": 0,
+      "index": 22,
+      "state": "attack_sword_combo",
+      "speed": 1.125,
+      "expression": [
+        1066401792
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_plague_ogryn",
+      "event": "attack_catapult",
+      "asset": "efa798053b269d22",
+      "layer": 0,
+      "index": 24,
+      "state": "attack_catapult",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_poxwalker",
+      "event": "attack_reach_up_01",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 73,
+      "state": "attack_reach_up_01",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_poxwalker",
+      "event": "attack_03",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 79,
+      "state": "attack_03",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_poxwalker",
+      "event": "attack_04",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 80,
+      "state": "attack_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_poxwalker",
+      "event": "attack_02",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 71,
+      "state": "attack_02",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_poxwalker",
+      "event": "attack_down_01",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 72,
+      "state": "attack_down_01",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_poxwalker",
+      "event": "attack_05",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 78,
+      "state": "attack_05",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_poxwalker",
+      "event": "attack_01",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 70,
+      "state": "attack_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_poxwalker",
+      "event": "attack_move_03",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 89,
+      "state": "a87d204f00dd4d19",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_poxwalker",
+      "event": "attack_move_02",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 88,
+      "state": "c109c9164aaf7640",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_poxwalker",
+      "event": "attack_move_01",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 87,
+      "state": "243df338182629e7",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_poxwalker",
+      "event": "attack_run_01",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 90,
+      "state": "d3ad8df9a7a6ad30",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_poxwalker",
+      "event": "attack_run_02",
+      "asset": "aca72223000067d9",
+      "layer": 0,
+      "index": 91,
+      "state": "6d3a48c45adc098b",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_turn_right",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 23,
+      "state": "attack_turn_right",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_melee_combo",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 54,
+      "state": "attack_melee_combo",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_melee_combo_2",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 60,
+      "state": "attack_melee_combo_2",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_melee_combo_3",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 72,
+      "state": "attack_melee_combo_3",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_melee_combo_4",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 73,
+      "state": "attack_melee_combo_4",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_turn_bwd",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 22,
+      "state": "attack_turn_bwd",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_turn_left",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 24,
+      "state": "attack_turn_left",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_melee_claw",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 55,
+      "state": "attack_melee_claw",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_melee_claw_02",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 71,
+      "state": "attack_melee_claw_02",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_turn_right",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 23,
+      "state": "attack_turn_right",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_melee_combo",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 54,
+      "state": "attack_melee_combo",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_melee_combo_2",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 60,
+      "state": "attack_melee_combo_2",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_melee_combo_3",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 72,
+      "state": "attack_melee_combo_3",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_melee_combo_4",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 73,
+      "state": "attack_melee_combo_4",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_turn_bwd",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 22,
+      "state": "attack_turn_bwd",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "chaos_spawn",
+      "event": "attack_turn_left",
+      "asset": "5b4d58769f622d91",
+      "layer": 0,
+      "index": 24,
+      "state": "attack_turn_left",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_assault",
+      "event": "attack_06",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 179,
+      "state": "attack_06",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_assault",
+      "event": "attack_04",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 181,
+      "state": "attack_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_assault",
+      "event": "attack_05",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 180,
+      "state": "attack_05",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_assault",
+      "event": "attack_down_01",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 197,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_assault",
+      "event": "attack_down_01",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 435,
+      "state": "71da0f833bd0fff5",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_assault",
+      "event": "attack_reach_up",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 175,
+      "state": "attack_reach_up",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_assault",
+      "event": "attack_07",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 182,
+      "state": "attack_07",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_assault",
+      "event": "attack_move_04",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 219,
+      "state": "e0259f7ae4bdd9a6",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_assault",
+      "event": "attack_move_01",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 216,
+      "state": "db2957519b3b13ad",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_assault",
+      "event": "attack_move_02",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 217,
+      "state": "67e0f1ec4acf3637",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_assault",
+      "event": "attack_move_03",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 218,
+      "state": "fb9283f699694fd7",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_berzerker",
+      "event": "attack_move_combo_04_fast",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 20,
+      "state": "attack_move_combo_04_fast",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_berzerker",
+      "event": "attack_move_combo_01_fast",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 22,
+      "state": "attack_move_combo_01_fast",
+      "speed": 1.399999976158142,
+      "expression": [
+        1068708659
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_berzerker",
+      "event": "attack_move_combo_08_fast",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 21,
+      "state": "attack_move_combo_08_fast",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_berzerker",
+      "event": "attack_reach_up",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 6,
+      "state": "attack_reach_up_01",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_berzerker",
+      "event": "attack_down_01",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 5,
+      "state": "attack_down_01",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_berzerker",
+      "event": "attack_04",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 7,
+      "state": "7bed387c8e341c5d",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_berzerker",
+      "event": "attack_01",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 0,
+      "state": "0f8eb65164e15131",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_berzerker",
+      "event": "attack_02",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 1,
+      "state": "13babc0e60150e72",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_berzerker",
+      "event": "attack_03",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 3,
+      "state": "74879a1c52ef1875",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_berzerker",
+      "event": "attack_combo_standing_06",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 8,
+      "state": "attack_combo_standing_06",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 103,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 144,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 389,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 444,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 105,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 150,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 391,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 443,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_knee_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 106,
+      "state": "attack_knee_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_knee_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 151,
+      "state": "attack_knee_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_knee_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 392,
+      "state": "attack_knee_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_knee_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 442,
+      "state": "attack_knee_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_pommel_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 107,
+      "state": "attack_pommel_02",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_pommel_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 152,
+      "state": "attack_pommel_02",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_pommel_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 393,
+      "state": "attack_pommel_02",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_pommel_03",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 108,
+      "state": "attack_pommel_03",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_pommel_03",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 153,
+      "state": "attack_pommel_03",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_pommel_03",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 394,
+      "state": "attack_pommel_03",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_pommel_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 104,
+      "state": "attack_pommel_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_pommel_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 145,
+      "state": "attack_pommel_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_pommel_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 390,
+      "state": "attack_pommel_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "cultist_captain_heavy",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 447,
+      "state": "ed83107425bf04c7",
+      "speed": 2.0,
+      "expression": [
+        1073741824
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 113,
+      "state": "attack_01",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 425,
+      "state": "attack_01",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 117,
+      "state": "attack_02",
+      "speed": 1.399999976158142,
+      "expression": [
+        1068708659
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 429,
+      "state": "attack_02",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_move_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 170,
+      "state": "db2957519b3b13ad",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_move_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 455,
+      "state": "attack_move_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "cultist_heavy_slam",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 448,
+      "state": "381f9ea5cfe51d90",
+      "speed": 1.5,
+      "expression": [
+        1069547520
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_2h_pommel",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 441,
+      "state": "0167818542e5ce33",
+      "speed": 1.5,
+      "expression": [
+        1069547520
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_swing_combo_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 146,
+      "state": "attack_swing_combo_02",
+      "speed": 1.5499999523162842,
+      "expression": [
+        1069966950
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_swing_combo_03",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 147,
+      "state": "attack_swing_combo_03",
+      "speed": 1.5499999523162842,
+      "expression": [
+        1069966950
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_swing_combo_04",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 148,
+      "state": "attack_swing_combo_04",
+      "speed": 1.5499999523162842,
+      "expression": [
+        1069966950
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_swing_combo_05",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 149,
+      "state": "attack_swing_combo_05",
+      "speed": 1.5499999523162842,
+      "expression": [
+        1069966950
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_heavy_swing",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 154,
+      "state": "9919aa28aad4f5ea",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_move_04",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 173,
+      "state": "e0259f7ae4bdd9a6",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_move_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 170,
+      "state": "db2957519b3b13ad",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_move_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 455,
+      "state": "attack_move_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_move_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 171,
+      "state": "67e0f1ec4acf3637",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_move_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 454,
+      "state": "7c6436006229f5e6",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_move_03",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 172,
+      "state": "fb9283f699694fd7",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_05",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 120,
+      "state": "attack_05",
+      "speed": 1.600000023841858,
+      "expression": [
+        1070386381
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_07",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 122,
+      "state": "attack_07",
+      "speed": 1.600000023841858,
+      "expression": [
+        1070386381
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_06",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 119,
+      "state": "attack_06",
+      "speed": 1.600000023841858,
+      "expression": [
+        1070386381
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_04",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 121,
+      "state": "attack_04",
+      "speed": 1.600000023841858,
+      "expression": [
+        1070386381
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_captain",
+      "event": "attack_04",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 431,
+      "state": "attack_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_flamer",
+      "event": "attack_push_kick_01",
+      "asset": "c7fc3a84636743b7",
+      "layer": 0,
+      "index": 140,
+      "state": "attack_kick_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_grenadier",
+      "event": "attack_kick_01",
+      "asset": "cdc2933a0b1ff854",
+      "layer": 0,
+      "index": 61,
+      "state": "c9eaa4f964bca9be",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_grenadier",
+      "event": "attack_kick_02",
+      "asset": "cdc2933a0b1ff854",
+      "layer": 0,
+      "index": 62,
+      "state": "8fdea8d4ac39e414",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_gunner",
+      "event": "attack_bayonet_01",
+      "asset": "c60da19b2bcda8ab",
+      "layer": 0,
+      "index": 164,
+      "state": "attack_bayonet_01",
+      "speed": 1.5,
+      "expression": [
+        1069547520
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_gunner",
+      "event": "attack_bayonet_02",
+      "asset": "c60da19b2bcda8ab",
+      "layer": 0,
+      "index": 165,
+      "state": "attack_bayonet_02",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_gunner",
+      "event": "attack_bayonet_04",
+      "asset": "c60da19b2bcda8ab",
+      "layer": 0,
+      "index": 167,
+      "state": "attack_bayonet_04",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_gunner",
+      "event": "attack_bayonet_05",
+      "asset": "c60da19b2bcda8ab",
+      "layer": 0,
+      "index": 168,
+      "state": "attack_bayonet_05",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_melee",
+      "event": "attack_06",
+      "asset": "b287476707e5dcc4",
+      "layer": 0,
+      "index": 173,
+      "state": "attack_06",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_melee",
+      "event": "attack_04",
+      "asset": "b287476707e5dcc4",
+      "layer": 0,
+      "index": 175,
+      "state": "attack_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_melee",
+      "event": "attack_05",
+      "asset": "b287476707e5dcc4",
+      "layer": 0,
+      "index": 174,
+      "state": "attack_05",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_melee",
+      "event": "attack_down_01",
+      "asset": "b287476707e5dcc4",
+      "layer": 0,
+      "index": 192,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_melee",
+      "event": "attack_reach_up",
+      "asset": "b287476707e5dcc4",
+      "layer": 0,
+      "index": 169,
+      "state": "attack_reach_up",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_melee",
+      "event": "attack_07",
+      "asset": "b287476707e5dcc4",
+      "layer": 0,
+      "index": 176,
+      "state": "attack_07",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_melee",
+      "event": "attack_move_04",
+      "asset": "b287476707e5dcc4",
+      "layer": 0,
+      "index": 225,
+      "state": "e0259f7ae4bdd9a6",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_melee",
+      "event": "attack_move_01",
+      "asset": "b287476707e5dcc4",
+      "layer": 0,
+      "index": 222,
+      "state": "db2957519b3b13ad",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_melee",
+      "event": "attack_move_02",
+      "asset": "b287476707e5dcc4",
+      "layer": 0,
+      "index": 223,
+      "state": "67e0f1ec4acf3637",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_melee",
+      "event": "attack_move_03",
+      "asset": "b287476707e5dcc4",
+      "layer": 0,
+      "index": 224,
+      "state": "fb9283f699694fd7",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_melee",
+      "event": "attack_run_01",
+      "asset": "b287476707e5dcc4",
+      "layer": 0,
+      "index": 219,
+      "state": "7c6436006229f5e6",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_melee",
+      "event": "attack_run_02",
+      "asset": "b287476707e5dcc4",
+      "layer": 0,
+      "index": 220,
+      "state": "f4a8cc4124acbdd6",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_melee",
+      "event": "attack_run_03",
+      "asset": "b287476707e5dcc4",
+      "layer": 0,
+      "index": 221,
+      "state": "b823999aa7041f4a",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_shocktrooper",
+      "event": "bayonet_charge_hit_02",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 236,
+      "state": "6c949ece79af2bf9",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_shocktrooper",
+      "event": "bayonet_charge_hit_03",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 237,
+      "state": "e4bafb72f2485ecd",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_shocktrooper",
+      "event": "bayonet_charge_hit_04",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 239,
+      "state": "793972aedfcffd18",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_shocktrooper",
+      "event": "bayonet_charge_hit_05",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 241,
+      "state": "8021a5dfaf127da4",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_shocktrooper",
+      "event": "bayonet_charge_hit",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 234,
+      "state": "bayonet_charge_hit",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_shocktrooper",
+      "event": "attack_bayonet_01",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 227,
+      "state": "attack_bayonet_01",
+      "speed": 1.5,
+      "expression": [
+        1069547520
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_shocktrooper",
+      "event": "attack_bayonet_02",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 228,
+      "state": "attack_bayonet_02",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_shocktrooper",
+      "event": "attack_bayonet_04",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 229,
+      "state": "attack_bayonet_04",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_shocktrooper",
+      "event": "attack_bayonet_05",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 230,
+      "state": "attack_bayonet_05",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 40,
+      "state": "attack_01",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 180,
+      "state": "attack_01",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_02",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 44,
+      "state": "attack_02",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_02",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 184,
+      "state": "attack_02",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_06",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 46,
+      "state": "attack_06",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_06",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 186,
+      "state": "attack_06",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_reach_up",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 42,
+      "state": "attack_reach_up",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_reach_up",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 182,
+      "state": "attack_reach_up",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_07",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 49,
+      "state": "attack_07",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_07",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 189,
+      "state": "attack_07",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_down_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 64,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_down_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 204,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_move_04",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 85,
+      "state": "e0259f7ae4bdd9a6",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_move_04",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 226,
+      "state": "e0259f7ae4bdd9a6",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_move_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 82,
+      "state": "db2957519b3b13ad",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_move_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 223,
+      "state": "db2957519b3b13ad",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_move_02",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 83,
+      "state": "67e0f1ec4acf3637",
+      "speed": 1.100000023841858,
+      "expression": [
+        1066192077
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_move_02",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 224,
+      "state": "67e0f1ec4acf3637",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_move_03",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 84,
+      "state": "fb9283f699694fd7",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_move_03",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 225,
+      "state": "fb9283f699694fd7",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_run_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 79,
+      "state": "7c6436006229f5e6",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_run_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 220,
+      "state": "7c6436006229f5e6",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_run_02",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 80,
+      "state": "f4a8cc4124acbdd6",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_run_02",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 221,
+      "state": "f4a8cc4124acbdd6",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_run_03",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 81,
+      "state": "b823999aa7041f4a",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "cultist_vanguard",
+      "event": "attack_run_03",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 222,
+      "state": "b823999aa7041f4a",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_assault",
+      "event": "attack_06",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 179,
+      "state": "attack_06",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_assault",
+      "event": "attack_04",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 181,
+      "state": "attack_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_assault",
+      "event": "attack_05",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 180,
+      "state": "attack_05",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_assault",
+      "event": "attack_reach_up",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 175,
+      "state": "attack_reach_up",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_assault",
+      "event": "attack_down_01",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 197,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_assault",
+      "event": "attack_down_01",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 435,
+      "state": "71da0f833bd0fff5",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_assault",
+      "event": "attack_07",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 182,
+      "state": "attack_07",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_assault",
+      "event": "attack_move_04",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 219,
+      "state": "e0259f7ae4bdd9a6",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_assault",
+      "event": "attack_move_01",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 216,
+      "state": "db2957519b3b13ad",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_assault",
+      "event": "attack_move_02",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 217,
+      "state": "67e0f1ec4acf3637",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_assault",
+      "event": "attack_move_03",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 218,
+      "state": "fb9283f699694fd7",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_berzerker",
+      "event": "attack_combo_01",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 17,
+      "state": "a5bbed7815465125",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_berzerker",
+      "event": "attack_combo_04",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 18,
+      "state": "a39914d9e431ebde",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_berzerker",
+      "event": "attack_combo_08",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 19,
+      "state": "d3a8b8d0a75761b0",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_berzerker",
+      "event": "attack_01",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 0,
+      "state": "0f8eb65164e15131",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_berzerker",
+      "event": "attack_02",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 1,
+      "state": "13babc0e60150e72",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_berzerker",
+      "event": "attack_down_01",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 5,
+      "state": "attack_down_01",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_berzerker",
+      "event": "attack_04",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 7,
+      "state": "7bed387c8e341c5d",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_berzerker",
+      "event": "attack_reach_up",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 6,
+      "state": "attack_reach_up_01",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_berzerker",
+      "event": "attack_combo_standing_06",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 8,
+      "state": "attack_combo_standing_06",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_berzerker",
+      "event": "attack_03",
+      "asset": "f3c908e812a95fe9",
+      "layer": 0,
+      "index": 3,
+      "state": "74879a1c52ef1875",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 103,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 144,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 389,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 444,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 105,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 150,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 391,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 443,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_knee_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 106,
+      "state": "attack_knee_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_knee_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 151,
+      "state": "attack_knee_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_knee_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 392,
+      "state": "attack_knee_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_knee_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 442,
+      "state": "attack_knee_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_pommel_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 104,
+      "state": "attack_pommel_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_pommel_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 145,
+      "state": "attack_pommel_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_pommel_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 390,
+      "state": "attack_pommel_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_pommel_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 107,
+      "state": "attack_pommel_02",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_pommel_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 152,
+      "state": "attack_pommel_02",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_pommel_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 393,
+      "state": "attack_pommel_02",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_pommel_03",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 108,
+      "state": "attack_pommel_03",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_pommel_03",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 153,
+      "state": "attack_pommel_03",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_pommel_03",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 394,
+      "state": "attack_pommel_03",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_04",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 121,
+      "state": "attack_04",
+      "speed": 1.600000023841858,
+      "expression": [
+        1070386381
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_04",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 431,
+      "state": "attack_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_03",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 118,
+      "state": "attack_03",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_03",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 430,
+      "state": "attack_03",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 113,
+      "state": "attack_01",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 425,
+      "state": "attack_01",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 117,
+      "state": "attack_02",
+      "speed": 1.399999976158142,
+      "expression": [
+        1068708659
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 429,
+      "state": "attack_02",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_move_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 170,
+      "state": "db2957519b3b13ad",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_move_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 455,
+      "state": "attack_move_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_ground_slam",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 445,
+      "state": "e4316702ae27a7a7",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_2h_pommel",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 441,
+      "state": "0167818542e5ce33",
+      "speed": 1.5,
+      "expression": [
+        1069547520
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_swing_combo_05",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 149,
+      "state": "attack_swing_combo_05",
+      "speed": 1.5499999523162842,
+      "expression": [
+        1069966950
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_swing_combo_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 146,
+      "state": "attack_swing_combo_02",
+      "speed": 1.5499999523162842,
+      "expression": [
+        1069966950
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_swing_combo_03",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 147,
+      "state": "attack_swing_combo_03",
+      "speed": 1.5499999523162842,
+      "expression": [
+        1069966950
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_swing_combo_04",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 148,
+      "state": "attack_swing_combo_04",
+      "speed": 1.5499999523162842,
+      "expression": [
+        1069966950
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_heavy_swing",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 154,
+      "state": "9919aa28aad4f5ea",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_move_03",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 172,
+      "state": "fb9283f699694fd7",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_move_04",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 173,
+      "state": "e0259f7ae4bdd9a6",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_move_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 170,
+      "state": "db2957519b3b13ad",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_move_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 455,
+      "state": "attack_move_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_move_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 171,
+      "state": "67e0f1ec4acf3637",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_move_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 454,
+      "state": "7c6436006229f5e6",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_06",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 119,
+      "state": "attack_06",
+      "speed": 1.600000023841858,
+      "expression": [
+        1070386381
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_07",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 122,
+      "state": "attack_07",
+      "speed": 1.600000023841858,
+      "expression": [
+        1070386381
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_04",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 121,
+      "state": "attack_04",
+      "speed": 1.600000023841858,
+      "expression": [
+        1070386381
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_04",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 431,
+      "state": "attack_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_captain",
+      "event": "attack_05",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 120,
+      "state": "attack_05",
+      "speed": 1.600000023841858,
+      "expression": [
+        1070386381
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_executor",
+      "event": "attack_reach_up",
+      "asset": "3ceac34588c0729e",
+      "layer": 0,
+      "index": 52,
+      "state": "attack_reach_up",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_executor",
+      "event": "attack_down_01",
+      "asset": "3ceac34588c0729e",
+      "layer": 0,
+      "index": 53,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_executor",
+      "event": "attack_04",
+      "asset": "3ceac34588c0729e",
+      "layer": 0,
+      "index": 43,
+      "state": "attack_04",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_executor",
+      "event": "attack_03",
+      "asset": "3ceac34588c0729e",
+      "layer": 0,
+      "index": 42,
+      "state": "attack_03",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_executor",
+      "event": "attack_01",
+      "asset": "3ceac34588c0729e",
+      "layer": 0,
+      "index": 39,
+      "state": "attack_01",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_executor",
+      "event": "attack_02",
+      "asset": "3ceac34588c0729e",
+      "layer": 0,
+      "index": 41,
+      "state": "attack_02",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_executor",
+      "event": "attack_down_01",
+      "asset": "3ceac34588c0729e",
+      "layer": 0,
+      "index": 53,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_executor",
+      "event": "attack_reach_up",
+      "asset": "3ceac34588c0729e",
+      "layer": 0,
+      "index": 52,
+      "state": "attack_reach_up",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_executor",
+      "event": "attack_move_02",
+      "asset": "3ceac34588c0729e",
+      "layer": 0,
+      "index": 61,
+      "state": "7c6436006229f5e6",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_executor",
+      "event": "attack_move_01",
+      "asset": "3ceac34588c0729e",
+      "layer": 0,
+      "index": 62,
+      "state": "db2957519b3b13ad",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_flamer",
+      "event": "attack_push_kick_01",
+      "asset": "c7fc3a84636743b7",
+      "layer": 0,
+      "index": 140,
+      "state": "attack_kick_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_flamer_mutator",
+      "event": "attack_push_kick_01",
+      "asset": "c7fc3a84636743b7",
+      "layer": 0,
+      "index": 140,
+      "state": "attack_kick_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_grenadier",
+      "event": "attack_kick_02",
+      "asset": "cdc2933a0b1ff854",
+      "layer": 0,
+      "index": 62,
+      "state": "8fdea8d4ac39e414",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_grenadier",
+      "event": "attack_kick_01",
+      "asset": "cdc2933a0b1ff854",
+      "layer": 0,
+      "index": 61,
+      "state": "c9eaa4f964bca9be",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_gunner",
+      "event": "attack_push_kick_01",
+      "asset": "c60da19b2bcda8ab",
+      "layer": 0,
+      "index": 153,
+      "state": "attack_kick_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_gunner",
+      "event": "attack_pommel_01",
+      "asset": "c60da19b2bcda8ab",
+      "layer": 0,
+      "index": 154,
+      "state": "attack_pommel_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_melee",
+      "event": "attack_04",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 181,
+      "state": "attack_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_melee",
+      "event": "attack_05",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 180,
+      "state": "attack_05",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_melee",
+      "event": "attack_06",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 179,
+      "state": "attack_06",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_melee",
+      "event": "attack_07",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 182,
+      "state": "attack_07",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_melee",
+      "event": "attack_down_01",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 197,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_melee",
+      "event": "attack_down_01",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 435,
+      "state": "71da0f833bd0fff5",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_melee",
+      "event": "attack_reach_up",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 175,
+      "state": "attack_reach_up",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_melee",
+      "event": "attack_move_03",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 218,
+      "state": "fb9283f699694fd7",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_melee",
+      "event": "attack_move_04",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 219,
+      "state": "e0259f7ae4bdd9a6",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_melee",
+      "event": "attack_move_01",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 216,
+      "state": "db2957519b3b13ad",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_melee",
+      "event": "attack_move_02",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 217,
+      "state": "67e0f1ec4acf3637",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_melee",
+      "event": "attack_run_01",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 213,
+      "state": "7c6436006229f5e6",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_melee",
+      "event": "attack_run_02",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 214,
+      "state": "f4a8cc4124acbdd6",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_melee",
+      "event": "attack_run_03",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 215,
+      "state": "b823999aa7041f4a",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_plasma_gunner",
+      "event": "attack_04",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 48,
+      "state": "attack_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_plasma_gunner",
+      "event": "attack_05",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 47,
+      "state": "attack_05",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_plasma_gunner",
+      "event": "attack_06",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 46,
+      "state": "attack_06",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_plasma_gunner",
+      "event": "attack_07",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 49,
+      "state": "attack_07",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_plasma_gunner",
+      "event": "attack_down_01",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 64,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_plasma_gunner",
+      "event": "attack_reach_up",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 42,
+      "state": "attack_reach_up",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_plasma_gunner",
+      "event": "attack_move_03",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 97,
+      "state": "fb9283f699694fd7",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_plasma_gunner",
+      "event": "attack_move_04",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 98,
+      "state": "e0259f7ae4bdd9a6",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_plasma_gunner",
+      "event": "attack_move_01",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 95,
+      "state": "db2957519b3b13ad",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_plasma_gunner",
+      "event": "attack_move_02",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 96,
+      "state": "67e0f1ec4acf3637",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_radio_operator",
+      "event": "attack_push_kick_01",
+      "asset": "c60da19b2bcda8ab",
+      "layer": 0,
+      "index": 153,
+      "state": "attack_kick_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_radio_operator",
+      "event": "attack_pommel_01",
+      "asset": "c60da19b2bcda8ab",
+      "layer": 0,
+      "index": 154,
+      "state": "attack_pommel_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_rifleman",
+      "event": "bayonet_charge_hit_02",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 433,
+      "state": "6c949ece79af2bf9",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_rifleman",
+      "event": "bayonet_charge_hit_03",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 437,
+      "state": "e4bafb72f2485ecd",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_rifleman",
+      "event": "bayonet_charge_hit_04",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 438,
+      "state": "793972aedfcffd18",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_rifleman",
+      "event": "bayonet_charge_hit_05",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 439,
+      "state": "8021a5dfaf127da4",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_rifleman",
+      "event": "bayonet_charge_hit",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 429,
+      "state": "bayonet_charge_hit",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_rifleman",
+      "event": "bayonet_attack_stab",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 426,
+      "state": "671caed79b6b7edf",
+      "speed": 1.5,
+      "expression": [
+        1069547520
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_rifleman",
+      "event": "bayonet_attack_stab_02",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 434,
+      "state": "51a306168e65fecc",
+      "speed": 1.2000000476837158,
+      "expression": [
+        1067030938
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_rifleman",
+      "event": "bayonet_attack_sweep",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 430,
+      "state": "c53ca08d03e254da",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_rifleman",
+      "event": "bayonet_attack_sweep_02",
+      "asset": "aade93c57c6dc0d8",
+      "layer": 0,
+      "index": 440,
+      "state": "6e24281b64c56318",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_shocktrooper",
+      "event": "attack_04",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 48,
+      "state": "attack_04",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_shocktrooper",
+      "event": "attack_05",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 47,
+      "state": "attack_05",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_shocktrooper",
+      "event": "attack_06",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 46,
+      "state": "attack_06",
+      "speed": 1.4500000476837158,
+      "expression": [
+        1069128090
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_shocktrooper",
+      "event": "attack_07",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 49,
+      "state": "attack_07",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_shocktrooper",
+      "event": "attack_down_01",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 64,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_shocktrooper",
+      "event": "attack_reach_up",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 42,
+      "state": "attack_reach_up",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_shocktrooper",
+      "event": "attack_move_03",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 97,
+      "state": "fb9283f699694fd7",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_shocktrooper",
+      "event": "attack_move_04",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 98,
+      "state": "e0259f7ae4bdd9a6",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_shocktrooper",
+      "event": "attack_move_01",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 95,
+      "state": "db2957519b3b13ad",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_shocktrooper",
+      "event": "attack_move_02",
+      "asset": "000957451622b061",
+      "layer": 0,
+      "index": 96,
+      "state": "67e0f1ec4acf3637",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_sniper",
+      "event": "attack_kick_01",
+      "asset": "532090aa16e2c460",
+      "layer": 0,
+      "index": 51,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_sniper",
+      "event": "attack_pommel_01",
+      "asset": "532090aa16e2c460",
+      "layer": 0,
+      "index": 50,
+      "state": "attack_pommel_01",
+      "speed": 1.350000023841858,
+      "expression": [
+        1068289229
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 103,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 144,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 389,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 444,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 105,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 150,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 391,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 443,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 103,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 144,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 389,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_kick_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 444,
+      "state": "attack_kick_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 105,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 150,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 391,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_kick_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 443,
+      "state": "attack_kick_02",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_knee_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 106,
+      "state": "attack_knee_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_knee_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 151,
+      "state": "attack_knee_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_knee_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 392,
+      "state": "attack_knee_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_knee_01",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 442,
+      "state": "attack_knee_01",
+      "speed": 1.25,
+      "expression": [
+        1067450368
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_heavy_swing_fast",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 156,
+      "state": "a31fa5f622a2ef6b",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_heavy_swing_fast_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 157,
+      "state": "41693ad6842d6f05",
+      "speed": 1.600000023841858,
+      "expression": [
+        1070386381
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_swing_combo_03",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 147,
+      "state": "attack_swing_combo_03",
+      "speed": 1.5499999523162842,
+      "expression": [
+        1069966950
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_swing_combo_04",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 148,
+      "state": "attack_swing_combo_04",
+      "speed": 1.5499999523162842,
+      "expression": [
+        1069966950
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_swing_combo_05",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 149,
+      "state": "attack_swing_combo_05",
+      "speed": 1.5499999523162842,
+      "expression": [
+        1069966950
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_swing_combo_02",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 146,
+      "state": "attack_swing_combo_02",
+      "speed": 1.5499999523162842,
+      "expression": [
+        1069966950
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_twin_captain_two",
+      "event": "attack_heavy_swing_moving",
+      "asset": "6de7c7d2287b2bcf",
+      "layer": 0,
+      "index": 158,
+      "state": "45267ba17962f4e5",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_07",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 49,
+      "state": "attack_07",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_07",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 189,
+      "state": "attack_07",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_06",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 46,
+      "state": "attack_06",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_06",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 186,
+      "state": "attack_06",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 40,
+      "state": "attack_01",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 180,
+      "state": "attack_01",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_02",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 44,
+      "state": "attack_02",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_02",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 184,
+      "state": "attack_02",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_down_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 64,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_down_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 204,
+      "state": "40048c0960a59add",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_reach_up",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 42,
+      "state": "attack_reach_up",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_reach_up",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 182,
+      "state": "attack_reach_up",
+      "speed": 1.2999999523162842,
+      "expression": [
+        1067869798
+      ],
+      "kind": 0,
+      "animation_count": 1
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_move_03",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 84,
+      "state": "fb9283f699694fd7",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_move_03",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 225,
+      "state": "fb9283f699694fd7",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_move_04",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 85,
+      "state": "e0259f7ae4bdd9a6",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_move_04",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 226,
+      "state": "e0259f7ae4bdd9a6",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_move_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 82,
+      "state": "db2957519b3b13ad",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_move_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 223,
+      "state": "db2957519b3b13ad",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_move_02",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 83,
+      "state": "67e0f1ec4acf3637",
+      "speed": 1.100000023841858,
+      "expression": [
+        1066192077
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_move_02",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 224,
+      "state": "67e0f1ec4acf3637",
+      "speed": 1.149999976158142,
+      "expression": [
+        1066611507
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_run_03",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 81,
+      "state": "b823999aa7041f4a",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_run_03",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 222,
+      "state": "b823999aa7041f4a",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_run_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 79,
+      "state": "7c6436006229f5e6",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_run_01",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 220,
+      "state": "7c6436006229f5e6",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_run_02",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 80,
+      "state": "f4a8cc4124acbdd6",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    },
+    {
+      "breed": "renegade_vanguard",
+      "event": "attack_run_02",
+      "asset": "5e24a1b726720f71",
+      "layer": 0,
+      "index": 221,
+      "state": "f4a8cc4124acbdd6",
+      "speed": 1.0,
+      "expression": [
+        1065353216
+      ],
+      "kind": 2,
+      "animation_count": 5
+    }
+  ],
+  "resource_count": 21,
+  "state_count": 262
+}

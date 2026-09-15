@@ -1,0 +1,8 @@
+{
+  "name": "Havoc Condition Packs",
+  "version": "1.0.0",
+  "author": "IRONCROWY",
+  "description": "Optional DIY conditions and native animation resources for Havoc Condition Manager.",
+  "dependencies": {"required": ["HavocConditionManager"]},
+  "localization": {"zh-cn": {"name": "浩劫扩展词条集"}, "zh-tw": {"name": "浩劫擴充詞條集"}}
+}

@@ -1,0 +1,36 @@
+{
+  "format": "Darktide.DIY",
+  "version": 1,
+  "kind": "conditions",
+  "id": "starter-conditions",
+  "name": {
+    "en": "Frenzied assault",
+    "zh-cn": "狂暴攻势",
+    "zh-tw": "狂暴攻勢"
+  },
+  "entries": [
+    {
+      "id": "frenzied_assault",
+      "name": {
+        "en": "Frenzied assault",
+        "zh-cn": "狂暴攻势",
+        "zh-tw": "狂暴攻勢"
+      },
+      "description": {
+        "zh-cn": "全体敌人的常规近战攻击速度与动画播放速度 +20%，同步命中、连击、扫击与动作时长。仅支持本地单人/机器人房间；需要安装随附的近战动画资源。",
+        "zh-tw": "全體敵人的常規近戰攻擊速度與動畫播放速度 +20%，同步命中、連擊、掃擊與動作時長。僅支援本地單人/機器人房間；需要安裝隨附的近戰動畫資源。",
+        "en": "+20% ordinary enemy melee attack and animation speed, with matching hit, combo, sweep and end timings. Local solo/bot sessions only; install the included melee animation resources."
+      },
+      "enabled": true,
+      "tier": 3,
+      "weight": 1,
+      "targets": {
+        "kind": "minions"
+      },
+      "conditions": [],
+      "match": "all",
+      "rules": [],
+      "script": true
+    }
+  ]
+}
