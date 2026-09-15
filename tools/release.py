@@ -1,11 +1,14 @@
 """Validate and publish an immutable standalone condition collection ZIP."""
 from pathlib import Path
-import hashlib,json,os,subprocess,sys,tempfile,zipfile
+import hashlib,json,os,re,subprocess,sys,tempfile,zipfile
 ROOT=Path(__file__).resolve().parents[1]
 NAME='HavocConditionPacks'
 source=ROOT/'src'/NAME
 version=json.loads((source/'info.json').read_text(encoding='utf-8'))['version']
-output=ROOT/'release'/version
+config=json.loads((ROOT/'publishing/release.json').read_text(encoding='utf-8'))
+release_id=config['release_id']
+assert re.fullmatch(re.escape(version)+r'(?:-r[0-9]+)?',release_id)
+output=ROOT/'release'/release_id
 files={p.relative_to(ROOT/'src').as_posix():p.read_bytes() for p in source.rglob('*') if p.is_file()}
 assert all(Path(name).suffix.lower() in {'.lua','.json','.mod','.md','.txt','.cmd','.ps1','.patch_996'} for name in files)
 assert not any(zipfile.is_zipfile(__import__('io').BytesIO(data)) for data in files.values())
@@ -13,19 +16,7 @@ manifest=json.loads(files[NAME+'/native-melee/manifest.json'])
 assert manifest['package_files']==[] and len(manifest['patches'])==54
 for row in manifest['patches']:
     assert hashlib.sha256(files[NAME+'/native-melee/resources/'+row['file']]).hexdigest()==row['sha256']
-notes='''HavocConditionPacks 1.0.0
-
-Initial standalone collection for HavocConditionManager 4.5.0+.
-- Frenzied assault 2.2.1 remains at +20% ordinary melee attack and animation speed.
-- HCM reads condition JSON and Lua directly from this mod; no condition extraction.
-- The optional installer registers 54 validated animation patches only.
-- Matching old HCM resource installations retain their original rollback records.
-
-Put HavocConditionPacks under the game mods directory and load it after HCM.
-Close Darktide before using Install-native-melee.cmd or Uninstall-native-melee.cmd.
-The collection contains native animation resources and CMD/PowerShell installers.
-No Nexus scanning approval is claimed. Offline checks do not replace in-game tests.
-'''
+notes=(ROOT/'publishing/release-notes.md').read_text(encoding='utf-8')
 def validate(folder):
     archive=folder/(NAME+'-'+version+'.zip')
     with zipfile.ZipFile(archive) as z:
@@ -39,7 +30,7 @@ if not output.exists():
     output.parent.mkdir(exist_ok=True)
     (ROOT/'build').mkdir(exist_ok=True)
     with tempfile.TemporaryDirectory(prefix='release-',dir=ROOT/'build') as temp:
-        staged=Path(temp)/version;staged.mkdir()
+        staged=Path(temp)/release_id;staged.mkdir()
         archive=staged/(NAME+'-'+version+'.zip')
         with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED,compresslevel=9) as z:
             for name,data in sorted(files.items()):
